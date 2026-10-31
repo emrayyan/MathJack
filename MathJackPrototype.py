@@ -53,7 +53,7 @@ def is_valid():
         return False
     return True
 
-print("There will be five questions!")
+print("There will be five questions! Remember that concatenation operator is '|' and you can use it at most once per expression")
 total = 0
 
 for turn in range(5):
