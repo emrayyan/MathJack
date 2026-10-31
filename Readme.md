@@ -12,10 +12,10 @@ There are five available operations: +, −, ×, ÷ and a ‘concatenation’ op
 Each question introduces a cap and you have to submit an expression below that cap. An answer above the cap or an invalid expression scores zero. Expressions are evaluated using BODMAS. Non-integer answers are rounded down to the nearest integer.
 
 Any valid expression must:
-.Be at most 7 cards long
-.Have alternating number and operation cards (remember that concatenation also acts as an operator)
-.Start And End with a number card
-.Use concatenation operator, ‘|’ at most once
+- Be at most 7 cards long
+- Have alternating number and operation cards (remember that concatenation also acts as an operator)
+- Start And End with a number card
+- Use concatenation operator, ‘|’ at most once
 
 This demo version has five turns, though you can tweak the code to increase that. You can also alter the possible range of cap in the code.
 
