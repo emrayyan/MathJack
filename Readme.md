@@ -1,8 +1,7 @@
 # MathJack
 A Math-themed card game.
 
-You can use this digital version of MathJack to practice your expression-building skills and understand the gameplay loop. You just need to download the Jupyter Notebook (.ipynb file), run it and play the demo. Alternatively, you can play it on google colab in your browser. 
-
+You can use this digital version of MathJack to practice your expression-building skills and understand the gameplay loop. You just need to download the Python (.py) file, run it in VSCode, PyCharm or any suitable IDE and play the demo in the terminal.
 A quick overview on the rules for this demo version:
 
 Teams draw from a shuffled deck of digits 1–9 so that they hold five number cards at the start of each question. Played number cards are discarded after each question while unused cards are retained. Not all numbered cards need to be used.
