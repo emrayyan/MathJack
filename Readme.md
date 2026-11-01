@@ -18,7 +18,7 @@ Any valid expression must:
 
 This demo version has five turns, though you can tweak the code to increase that. You can also alter the possible range of cap in the code.
 
-Note: This version does not implement any special abilities or a timer.
+Important Note: This version does not implement any special abilities or a timer.
 (you can set up a a timer on your own and come up with your own special abilities to make it more interesting)
 
 
